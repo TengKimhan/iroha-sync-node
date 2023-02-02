@@ -1,1 +1,1 @@
-# iroha-sync-node
+# Hyperledger Iroha Sync Peer
